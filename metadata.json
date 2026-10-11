@@ -1,0 +1,8 @@
+{
+  "name": "Remix SDN Sucopangepok 04 Jember - Official Website \u0026 Portal Sekolah",
+  "description": "Website resmi dan portal informasi SDN Sucopangepok 04 Kabupaten Jember Jawa Timur dengan manajemen konten lengkap, memori sekolah, kustomisasi font, jam dan tanggal otomatis, preview mobile/desktop, serta backup \u0026 restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
